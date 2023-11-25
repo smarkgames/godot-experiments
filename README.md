@@ -10,6 +10,10 @@ I have be writing code since 1982 and I still have the Apple ][+ that I started 
 
 As I have been writing software professionally for longer than most people reading this have been alive, I dont take shortcuts. This means my hope is this codebase is free from hacks, magic values, paths, etc. One important thing to me is that no one should ever suffer from NIH (Not Invented Here) syndrome. That means that if (as an example) I am looking to experiment with a dialog system and a community add-on that ticks the boxes exists and has customizable look and feel, I will without hestitation reach for it. There are going to be times an experiment will be coded from hand vs using an off the shelf, purley to help me understand the inner workings of godot. A save/load game system is a good example of this case.
 
+## The Experiments and Pull Requests
+
+This is primarily a collection of things I want to learn about Godot. There may be something I dont have on my list that is of interest to you, if so open an issue. I most likely wont merge PRs for experiments I havent actually done, because the point is me learning it hands on. I without question will take PRs to improve on experiments!
+
 ## Price & License
 
 Free, always and forever and unrestricted. If anything is useful here and helps you in your projects, please by all means use it! This is currently MIT licensed as I am not seeking credit or cash, though shoutouts are much loved :)
